@@ -1,4 +1,4 @@
 window.OLHAI_CONFIG = {
-  groupUrl: 'COLE_AQUI_O_LINK_DO_GRUPO_OFERTAS_DO_DIA',
+  groupUrl: 'https://chat.whatsapp.com/HzU8NXe29m94Q3h8b6AS1o?s=cl&p=i&mlu=4&ilr=4&iam=2',
   metaPixelId: '1455099743203745'
 };
