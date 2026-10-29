@@ -117,3 +117,8 @@ body{background:radial-gradient(ellipse at 50% -10%,#25212a 0%,#141519 48%,#1011
 @keyframes olhaiCtaPulse{0%,100%{box-shadow:0 6px 15px #ff85002a}50%{box-shadow:0 7px 26px #ff850066}}
 footer{color:#aaaab1}footer .footer-links button{color:#ffc16d}
 @media(max-width:600px){.hero{margin-top:15px}.hero-cta-section{padding-top:14px}.offers{margin-top:23px}}
+
+/* Faixa superior alinhada à identidade Olhai: grafite, laranja e dourado */
+.ticker{background:linear-gradient(90deg,#20160f 0%,#39200e 48%,#20160f 100%)!important;border-bottom:1px solid rgba(255,153,33,.55);box-shadow:inset 0 -1px rgba(255,186,76,.12)}
+.ticker .ticker-item,.ticker .ticker-set span{color:#fff4e5!important}
+.ticker .ticker-star{color:#ffab35!important}
