@@ -1,0 +1,11 @@
+OLHAI - OFERTAS DO DIA
+
+IMPORTANTE: Antes de publicar, abra config.js e substitua COLE_AQUI_O_LINK_DO_GRUPO_OFERTAS_DO_DIA pelo convite correto do grupo. O link do ZIP original é de outro grupo e NÃO foi reutilizado.
+
+Envie todos os arquivos desta pasta para a raiz do repositório GitHub Pages.
+
+Pixel: 1455099743203745
+PageView: carregamento da página
+Lead e ClicouGrupoOfertasDoDia: clique no botão do WhatsApp (não comprova entrada).
+
+Carrossel: 9 prints enviados. Sem links para lojas.

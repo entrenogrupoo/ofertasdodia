@@ -1,0 +1,4 @@
+window.OLHAI_CONFIG = {
+  groupUrl: 'COLE_AQUI_O_LINK_DO_GRUPO_OFERTAS_DO_DIA',
+  metaPixelId: '1455099743203745'
+};
